@@ -24,10 +24,8 @@ A full-stack machine learning project that predicts whether a loan application w
 
 ## 🧠 Model Details
 - **Algorithm**: CatBoost Classifier
-- **Training accuracy**: XX%
-- **Test accuracy**: XX%
-- **Evaluation metrics**: Accuracy, Precision, Recall, F1-score
-
+- **Training accuracy**: 96%
+- **Test accuracy**: 84%
 ---
 
 ## 📁 Project Structure
